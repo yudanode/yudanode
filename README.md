@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there ! Welcome to My Github Profile👋
+
+![Yudan Nur Alif](img/COVER%201.png)
 
 <!--
 **yudanode/yudanode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
