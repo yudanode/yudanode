@@ -43,10 +43,7 @@ Pernah sangat ketergantungan dengan **vibe coding**
 
 **My Stats**
 
-
-
-
-
+[![Yudan Nur Alif Stats](https://github-readme-stats.vercel.app/api?username=yudanode)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
