@@ -54,10 +54,12 @@ I thrive in collaborative environments where I can combine my passion for softwa
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yudannuralif_/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yudan-nur-alif-0118b12ba/) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://yudannuralif@gmail.com)
 
-**My Stats**
+### My Stats
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudanode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![Yudan Nur Alif Stats](https://github-readme-stats.vercel.app/api?username=yudanode&show_icons=true&theme=radical)
-**Pacman**
+
+### Pacman & Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yudanode/yudanode/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yudanode/yudanode/output/pacman-contribution-graph.svg">
