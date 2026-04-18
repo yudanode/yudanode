@@ -1,7 +1,6 @@
 <div align="center">
 
   ## Hi there ! Welcome to My Github Profile 👋
-
   <img src="img/COVER 1.png" alt="Yudan Nur Alif Banner" width="100%">
 
   <br>
@@ -9,12 +8,26 @@
   <img src="https://img.shields.io/badge/frontEnd-systems-black?style=flat-square">
   <img src="https://img.shields.io/badge/Language-javascript-blue?style=flat-square&logo=javascript">
   <img src="https://img.shields.io/badge/github-repo-0077B5?style=flat-square&logo=github">
+<div align="start">
+I'm an aspiring Fullstack Developer and tech enthusiast based in Indonesia. Currently, I’m pursuing my studies in Information Technology at Politeknik Negeri Madiun. My journey is driven by a deep curiosity for how technology can bridge the gap between complex challenges and practical solutions.
 
-  <br><br>
+I believe that constant learning is the key to growth. Whether I am fine-tuning a web application, exploring the intricacies of machine learning, or tinkering with hardware for IoT projects, I am always pushing myself to expand my technical horizons.
+<div>
+
 </div>
 
-Pernah terjebak di **Tutorial Hell**
-Pernah sangat ketergantungan dengan **vibe coding**
+### About Me🌟
+My academic journey at Politeknik Negeri Madiun has been defined by hands-on experience and a passion for research. I don't just learn theory; I apply it to real-world projects:
+- Electric Vehicle Research: I am an active member of an electric vehicle team, where I contribute to engineering the future of sustainable transportation.
+- Machine Learning Research: I explore the world of data, focusing on developing intelligent models and uncovering patterns that can drive innovation.
+- IoT Enthusiast: I am currently deepening my knowledge in the Internet of Things, aiming to create interconnected systems that make life more efficient.
+- Fullstack Web Development: Web development is my primary playground. I love building seamless, responsive, and functional digital experiences from the front end to the back end.
+- Beyond the Web: I am constantly evolving my skill set, currently diving into Java GUI development and Mobile Application Development with Kotlin.
+
+I thrive in collaborative environments where I can combine my passion for software architecture with experimental research. Let's build something impactful together!
+
+
+
 
 ### Skills of Programming
 **Language**
@@ -43,7 +56,9 @@ Pernah sangat ketergantungan dengan **vibe coding**
 
 **My Stats**
 
-[![Yudan Nur Alif Stats](https://github-readme-stats.vercel.app/api?username=yudanode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)[![Yudan Nur Alif Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
