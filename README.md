@@ -56,7 +56,7 @@ I thrive in collaborative environments where I can combine my passion for softwa
 
 **My Stats**
 
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)[![Yudan Nur Alif Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudanode&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)![Yudan Nur Alif Stats](https://github-readme-stats.vercel.app/api?username=yudanode&show_icons=true&theme=radical)
 
 
 
