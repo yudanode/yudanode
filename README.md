@@ -58,7 +58,10 @@ I thrive in collaborative environments where I can combine my passion for softwa
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yudanode&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudanode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![Yudan Nur Alif Stats](https://github-readme-stats.vercel.app/api?username=yudanode&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api?username=yudanode&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api/top-langs/?username=yudanode&theme=dracula&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+</div>
 
 ### Pacman & Snake
 
